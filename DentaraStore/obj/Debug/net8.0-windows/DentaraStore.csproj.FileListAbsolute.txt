@@ -1,0 +1,46 @@
+O:\C# project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\DentaraStore.exe
+O:\C# project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\DentaraStore.deps.json
+O:\C# project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\DentaraStore.runtimeconfig.json
+O:\C# project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\DentaraStore.dll
+O:\C# project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\DentaraStore.pdb
+O:\C# project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\Guna.Charts.WinForms.dll
+O:\C# project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\Guna.UI2.dll
+O:\C# project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\System.Management.dll
+O:\C# project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.csproj.AssemblyReference.cache
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.Form1.resources
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.Login_Form.resources
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.csproj.GenerateResource.cache
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.GeneratedMSBuildEditorConfig.editorconfig
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.AssemblyInfoInputs.cache
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.AssemblyInfo.cs
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.csproj.CoreCompileInputs.cache
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraS.0F6BC89D.Up2Date
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.dll
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\refint\DentaraStore.dll
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.pdb
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.genruntimeconfig.cache
+O:\C# project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\ref\DentaraStore.dll
+O:\Project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\DentaraStore.exe
+O:\Project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\DentaraStore.deps.json
+O:\Project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\DentaraStore.runtimeconfig.json
+O:\Project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\DentaraStore.dll
+O:\Project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\DentaraStore.pdb
+O:\Project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\Guna.Charts.WinForms.dll
+O:\Project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\Guna.UI2.dll
+O:\Project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\System.Management.dll
+O:\Project\DentaraStore\DentaraStore\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.csproj.AssemblyReference.cache
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.Form1.resources
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.Login_Form.resources
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.csproj.GenerateResource.cache
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.GeneratedMSBuildEditorConfig.editorconfig
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.AssemblyInfoInputs.cache
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.AssemblyInfo.cs
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.csproj.CoreCompileInputs.cache
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraS.0F6BC89D.Up2Date
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.dll
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\refint\DentaraStore.dll
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.pdb
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\DentaraStore.genruntimeconfig.cache
+O:\Project\DentaraStore\DentaraStore\obj\Debug\net8.0-windows\ref\DentaraStore.dll
