@@ -14,8 +14,9 @@ namespace DentaraStore
         public DBConnection(string server)
         {
             serverName = server;
-            sqlServerConnection = $"Data Source={serverName};Initial Catalog=DentalStoreDB;Integrated Security=True";
+            sqlServerConnection = $"Data Source={serverName};Initial Catalog=DentalStoreDB;Integrated Security=True;Encrypt=True;Trust Server Certificate=True";
             //;Trust Server Certificate=True
         }
     }
 }
+//Data Source=ZBOOK15G5-ALDUB;Initial Catalog=DentalStoreDB;Integrated Security=True;Encrypt=True;Trust Server Certificate=True

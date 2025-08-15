@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "O:\\Project\\DentaraStore\\DentaraStore\\DentaraStore.csproj": {}
+    "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\DentaraStore.csproj": {}
   },
   "projects": {
-    "O:\\Project\\DentaraStore\\DentaraStore\\DentaraStore.csproj": {
+    "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\DentaraStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "O:\\Project\\DentaraStore\\DentaraStore\\DentaraStore.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\DentaraStore.csproj",
         "projectName": "DentaraStore",
-        "projectPath": "O:\\Project\\DentaraStore\\DentaraStore\\DentaraStore.csproj",
+        "projectPath": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\DentaraStore.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "O:\\Project\\DentaraStore\\DentaraStore\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,6 +57,10 @@
             "Guna.UI2.WinForms": {
               "target": "Package",
               "version": "[2.0.4.7, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.1, )"
             }
           },
           "imports": [
