@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DentaraStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b67ecbafbc1250199e4529a2988b6099e6d6fded")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a646c886ad689010d3204660d5821042f1d8060e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DentaraStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DentaraStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

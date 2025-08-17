@@ -83,11 +83,11 @@
             guna2PictureBox1.FillColor = Color.Transparent;
             guna2PictureBox1.Image = Properties.Resources.Dentara_logo;
             guna2PictureBox1.ImageRotate = 0F;
-            guna2PictureBox1.Location = new Point(7, 2);
+            guna2PictureBox1.Location = new Point(9, 0);
             guna2PictureBox1.Name = "guna2PictureBox1";
-            guna2PictureBox1.Padding = new Padding(5);
+            guna2PictureBox1.Padding = new Padding(4, 5, 4, 5);
             guna2PictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            guna2PictureBox1.Size = new Size(515, 515);
+            guna2PictureBox1.Size = new Size(465, 491);
             guna2PictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             guna2PictureBox1.TabIndex = 0;
             guna2PictureBox1.TabStop = false;
@@ -96,11 +96,11 @@
             // 
             guna2CirclePictureBox1.Image = Properties.Resources.Dentara_logo;
             guna2CirclePictureBox1.ImageRotate = 0F;
-            guna2CirclePictureBox1.Location = new Point(12, 12);
+            guna2CirclePictureBox1.Location = new Point(4, 11);
             guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
             guna2CirclePictureBox1.ShadowDecoration.CustomizableEdges = customizableEdges15;
             guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            guna2CirclePictureBox1.Size = new Size(95, 92);
+            guna2CirclePictureBox1.Size = new Size(91, 88);
             guna2CirclePictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             guna2CirclePictureBox1.TabIndex = 1;
             guna2CirclePictureBox1.TabStop = false;
@@ -121,16 +121,16 @@
             guna2Panel1.Location = new Point(0, 0);
             guna2Panel1.Name = "guna2Panel1";
             guna2Panel1.ShadowDecoration.CustomizableEdges = customizableEdges17;
-            guna2Panel1.Size = new Size(485, 522);
+            guna2Panel1.Size = new Size(431, 497);
             guna2Panel1.TabIndex = 2;
             // 
             // RoleLabel
             // 
             RoleLabel.Font = new Font("Segoe UI", 9F);
             RoleLabel.ForeColor = Color.SteelBlue;
-            RoleLabel.Location = new Point(86, 305);
+            RoleLabel.Location = new Point(69, 290);
             RoleLabel.Name = "RoleLabel";
-            RoleLabel.Size = new Size(173, 40);
+            RoleLabel.Size = new Size(161, 38);
             RoleLabel.TabIndex = 5;
             RoleLabel.Text = "label1";
             // 
@@ -148,10 +148,10 @@
             Login_btn.FillColor = Color.SteelBlue;
             Login_btn.Font = new Font("Segoe UI", 9F);
             Login_btn.ForeColor = Color.WhiteSmoke;
-            Login_btn.Location = new Point(236, 357);
+            Login_btn.Location = new Point(203, 340);
             Login_btn.Name = "Login_btn";
             Login_btn.ShadowDecoration.CustomizableEdges = customizableEdges6;
-            Login_btn.Size = new Size(136, 41);
+            Login_btn.Size = new Size(128, 39);
             Login_btn.TabIndex = 4;
             Login_btn.Text = "Login";
             Login_btn.Click += guna2Button1_Click;
@@ -170,13 +170,13 @@
             SignUp_btn.FillColor = Color.SteelBlue;
             SignUp_btn.Font = new Font("Segoe UI", 9F);
             SignUp_btn.ForeColor = Color.WhiteSmoke;
-            SignUp_btn.Location = new Point(86, 357);
+            SignUp_btn.Location = new Point(69, 340);
             SignUp_btn.Name = "SignUp_btn";
             SignUp_btn.ShadowDecoration.CustomizableEdges = customizableEdges8;
-            SignUp_btn.Size = new Size(136, 41);
+            SignUp_btn.Size = new Size(128, 39);
             SignUp_btn.TabIndex = 4;
             SignUp_btn.Text = "Sign Up";
-            SignUp_btn.Click += guna2Button1_Click;
+            SignUp_btn.Click += SignUp_btn_Click;
             // 
             // guna2ToggleSwitch1
             // 
@@ -185,10 +185,10 @@
             guna2ToggleSwitch1.CheckedState.InnerBorderColor = Color.White;
             guna2ToggleSwitch1.CheckedState.InnerColor = Color.White;
             guna2ToggleSwitch1.CustomizableEdges = customizableEdges9;
-            guna2ToggleSwitch1.Location = new Point(282, 305);
+            guna2ToggleSwitch1.Location = new Point(244, 290);
             guna2ToggleSwitch1.Name = "guna2ToggleSwitch1";
             guna2ToggleSwitch1.ShadowDecoration.CustomizableEdges = customizableEdges10;
-            guna2ToggleSwitch1.Size = new Size(90, 40);
+            guna2ToggleSwitch1.Size = new Size(87, 38);
             guna2ToggleSwitch1.TabIndex = 3;
             guna2ToggleSwitch1.UncheckedState.BorderColor = Color.FromArgb(125, 137, 149);
             guna2ToggleSwitch1.UncheckedState.FillColor = Color.FromArgb(125, 137, 149);
@@ -211,13 +211,13 @@
             Passwoerd_txt.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
             Passwoerd_txt.Font = new Font("Segoe UI", 9F);
             Passwoerd_txt.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            Passwoerd_txt.Location = new Point(86, 238);
+            Passwoerd_txt.Location = new Point(69, 227);
             Passwoerd_txt.Margin = new Padding(3, 4, 3, 4);
             Passwoerd_txt.Name = "Passwoerd_txt";
             Passwoerd_txt.PlaceholderText = "";
             Passwoerd_txt.SelectedText = "";
             Passwoerd_txt.ShadowDecoration.CustomizableEdges = customizableEdges12;
-            Passwoerd_txt.Size = new Size(286, 40);
+            Passwoerd_txt.Size = new Size(261, 38);
             Passwoerd_txt.TabIndex = 2;
             // 
             // Email_txt
@@ -235,13 +235,13 @@
             Email_txt.FocusedState.BorderColor = Color.FromArgb(94, 148, 255);
             Email_txt.Font = new Font("Segoe UI", 9F);
             Email_txt.HoverState.BorderColor = Color.FromArgb(94, 148, 255);
-            Email_txt.Location = new Point(86, 171);
+            Email_txt.Location = new Point(69, 163);
             Email_txt.Margin = new Padding(3, 4, 3, 4);
             Email_txt.Name = "Email_txt";
             Email_txt.PlaceholderText = "";
             Email_txt.SelectedText = "";
             Email_txt.ShadowDecoration.CustomizableEdges = customizableEdges14;
-            Email_txt.Size = new Size(286, 40);
+            Email_txt.Size = new Size(261, 38);
             Email_txt.TabIndex = 2;
             // 
             // guna2Panel2
@@ -249,18 +249,18 @@
             guna2Panel2.Controls.Add(guna2PictureBox1);
             guna2Panel2.CustomizableEdges = customizableEdges3;
             guna2Panel2.Dock = DockStyle.Right;
-            guna2Panel2.Location = new Point(487, 0);
+            guna2Panel2.Location = new Point(426, 0);
             guna2Panel2.Name = "guna2Panel2";
             guna2Panel2.ShadowDecoration.CustomizableEdges = customizableEdges4;
-            guna2Panel2.Size = new Size(525, 522);
+            guna2Panel2.Size = new Size(474, 497);
             guna2Panel2.TabIndex = 3;
             // 
             // Login_Form
             // 
-            AutoScaleDimensions = new SizeF(9F, 21F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.SteelBlue;
-            ClientSize = new Size(1012, 522);
+            ClientSize = new Size(900, 497);
             Controls.Add(guna2Panel2);
             Controls.Add(guna2Panel1);
             FormBorderStyle = FormBorderStyle.None;

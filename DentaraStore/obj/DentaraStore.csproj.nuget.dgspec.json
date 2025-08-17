@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\DentaraStore.csproj": {}
+    "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\DentaraStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\DentaraStore.csproj": {
+    "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\DentaraStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\DentaraStore.csproj",
+        "projectUniqueName": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\DentaraStore.csproj",
         "projectName": "DentaraStore",
-        "projectPath": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\DentaraStore.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\obj\\",
+        "projectPath": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\DentaraStore.csproj",
+        "packagesPath": "C:\\Users\\MC\\.nuget\\packages\\",
+        "outputPath": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

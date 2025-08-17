@@ -17,7 +17,7 @@ namespace DentaraStore
 {
     public partial class Login_Form : Form
     {
-        public string serverName = "ZBOOK15G5-ALDUB";
+        public string serverName = "DESKTOP-G1QMAOP";
         public Login_Form()
         {
             InitializeComponent();
@@ -54,7 +54,7 @@ namespace DentaraStore
             string hashedPassword = EncryptPassword(password);
 
             try
-            {   
+            {
                 DBConnection dBConnection = new DBConnection(serverName);
                 string dbserver = dBConnection.sqlServerConnection;
                 using (SqlConnection conn = new SqlConnection(dbserver))
@@ -104,6 +104,13 @@ namespace DentaraStore
         private void guna2CirclePictureBox1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void SignUp_btn_Click(object sender, EventArgs e)
+        {
+            SignUp f3 = new SignUp();
+            f3.Show();
+            this.Hide();
         }
     }
 }

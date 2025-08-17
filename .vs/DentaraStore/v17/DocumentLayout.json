@@ -1,29 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\New folder\\",
+  "WorkspaceRootPath": "D:\\A project DentaraStore\\MYProject_DentaraStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|c:\\users\\hp\\documents\\new folder\\dentarastore\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|solutionrelative:dentarastore\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|d:\\a project dentarastore\\myproject_dentarastore\\dentarastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|solutionrelative:dentarastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|c:\\users\\hp\\documents\\new folder\\dentarastore\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_G1QMAOP/DentalStoreDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|d:\\a project dentarastore\\myproject_dentarastore\\dentarastore\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|solutionrelative:dentarastore\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|d:\\a project dentarastore\\myproject_dentarastore\\dentarastore\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|solutionrelative:dentarastore\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|d:\\a project dentarastore\\myproject_dentarastore\\dentarastore\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|solutionrelative:dentarastore\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|c:\\users\\hp\\documents\\new folder\\dentarastore\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|D:\\A project DentaraStore\\MYProject_DentaraStore\\dentarastore\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|solutionrelative:dentarastore\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|d:\\a project dentarastore\\myproject_dentarastore\\dentarastore\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|solutionrelative:dentarastore\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|c:\\users\\hp\\documents\\new folder\\dentarastore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|d:\\a project dentarastore\\myproject_dentarastore\\dentarastore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|solutionrelative:dentarastore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|C:\\Users\\hp\\Documents\\New folder\\dentarastore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|D:\\A project DentaraStore\\MYProject_DentaraStore\\dentarastore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|solutionrelative:dentarastore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|c:\\users\\hp\\documents\\new folder\\dentarastore\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|d:\\a project dentarastore\\myproject_dentarastore\\dentarastore\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|solutionrelative:dentarastore\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
@@ -34,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,49 +57,95 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\Program.cs",
+              "RelativeDocumentMoniker": "DentaraStore\\Program.cs",
+              "ToolTip": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\Program.cs",
+              "RelativeToolTip": "DentaraStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T03:50:08.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_G1QMAOP/DentalStoreDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-17T03:19:23.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\SignUp.cs",
+              "RelativeDocumentMoniker": "DentaraStore\\SignUp.cs",
+              "ToolTip": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\SignUp.cs [Design]",
+              "RelativeToolTip": "DentaraStore\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T03:04:33.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\SignUp.cs",
+              "RelativeDocumentMoniker": "DentaraStore\\SignUp.cs",
+              "ToolTip": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\SignUp.cs",
+              "RelativeToolTip": "DentaraStore\\SignUp.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAqwKcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T22:25:57.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Login_Form.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\Login_Form.cs",
+              "DocumentMoniker": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\Login_Form.cs",
               "RelativeDocumentMoniker": "DentaraStore\\Login_Form.cs",
-              "ToolTip": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\Login_Form.cs",
+              "ToolTip": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\Login_Form.cs",
               "RelativeToolTip": "DentaraStore\\Login_Form.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwDsAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T18:13:43.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "DBConnection.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\DBConnection.cs",
+              "DocumentMoniker": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\DBConnection.cs",
               "RelativeDocumentMoniker": "DentaraStore\\DBConnection.cs",
-              "ToolTip": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\DBConnection.cs",
+              "ToolTip": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\DBConnection.cs",
               "RelativeToolTip": "DentaraStore\\DBConnection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T22:09:11.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T22:09:11.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\Properties\\Resources.resx",
+              "DocumentMoniker": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "DentaraStore\\Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\Properties\\Resources.resx",
+              "ToolTip": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\Properties\\Resources.resx",
               "RelativeToolTip": "DentaraStore\\Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-08-15T17:25:59.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T17:25:59.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\Form1.cs",
+              "DocumentMoniker": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\Form1.cs",
               "RelativeDocumentMoniker": "DentaraStore\\Form1.cs",
-              "ToolTip": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\Form1.cs",
+              "ToolTip": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\Form1.cs",
               "RelativeToolTip": "DentaraStore\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,27 +154,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Login_Form.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\Login_Form.cs",
+              "DocumentMoniker": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\Login_Form.cs",
               "RelativeDocumentMoniker": "DentaraStore\\Login_Form.cs",
-              "ToolTip": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\Login_Form.cs [Design]",
+              "ToolTip": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\Login_Form.cs [Design]",
               "RelativeToolTip": "DentaraStore\\Login_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T20:42:46.713Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-15T20:42:46.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\Form1.cs",
+              "DocumentMoniker": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\Form1.cs",
               "RelativeDocumentMoniker": "DentaraStore\\Form1.cs",
               "ToolTip": "C:\\Users\\hp\\Documents\\New folder\\DentaraStore\\Form1.cs [Design]",
-              "RelativeToolTip": "DentaraStore\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T20:48:35.82Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-14T20:48:35.82Z"
             }
           ]
         }
