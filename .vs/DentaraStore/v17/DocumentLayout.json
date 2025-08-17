@@ -10,7 +10,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_G1QMAOP/DentalStoreDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|d:\\a project dentarastore\\myproject_dentarastore\\dentarastore\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|D:\\A project DentaraStore\\MYProject_DentaraStore\\dentarastore\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8EF2A910-FBDF-4753-B604-97581EB6247C}|DentaraStore\\DentaraStore.csproj|solutionrelative:dentarastore\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -71,12 +71,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.Users [Data]",
+              "Title": "dbo.Users.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_G1QMAOP/DentalStoreDB/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "dbo.Users [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_G1QMAOP/DentalStoreDB/True/SqlTable/dbo.Users.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-17T03:19:23.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T03:19:23.452Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "ToolTip": "D:\\A project DentaraStore\\MYProject_DentaraStore\\DentaraStore\\SignUp.cs [Design]",
               "RelativeToolTip": "DentaraStore\\SignUp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T03:04:33.955Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-17T03:04:33.955Z"
             },
             {
               "$type": "Document",
@@ -100,8 +98,7 @@
               "RelativeToolTip": "DentaraStore\\SignUp.cs",
               "ViewState": "AgIAAJoAAAAAAAAAAAAqwKcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T22:25:57.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T22:25:57.79Z"
             },
             {
               "$type": "Document",
